@@ -1,0 +1,51 @@
+.sequence-main {
+  display: inline-block;
+}
+
+.sequence-board-container {
+  background-color: darkgreen;
+  padding: 2px;
+}
+
+.sequence-board-row {
+  width: fit-content;
+}
+
+.sequence-card-container {
+  display: inline;
+}
+
+.sequence-board-card {
+  height: 75px;
+  width: 55px;
+  padding: 2px;
+}
+
+.sequence-board-card-hovered {
+  background-color: orange;
+}
+
+.sequence-hand-card {
+  height: 450px;
+  width: 330px;
+}
+
+.temp-card-display {
+  vertical-align: top;
+  margin-left: 5%;
+}
+
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*/
